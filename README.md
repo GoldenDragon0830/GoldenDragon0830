@@ -10,8 +10,8 @@
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning: Open AI
-  - 💬 Ask me about: C++, Competitive Programming, Web Development
-  - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
+  - 💬 Ask me about: C++, Competitive Programming, Web Development, Mobile Development(Android/iOS)
+  - 📫 Reach me through [Mail](mailto:GoldenDragon0830@gmail.com) 
 
 <br />
 <br />
@@ -21,7 +21,7 @@
 ##
 ![](https://komarev.com/ghpvc/?username=sagarkori143&color=blue)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Sagar kori's activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
     
 
 
@@ -103,32 +103,32 @@
 # My GitHub Stats 📊
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=sagarkori143&theme=darkmode&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=goldendragon0830&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="center">
 
 
-<a href="https://github.com/sagarkori143?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sagarkori143&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@sagarkori143's github-readme-stats"/></a>
+<a href="https://github.com/goldendragon0830?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=goldendragon0830&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@sagarkori143's github-readme-stats"/></a>
 <a href="https://github.com/sagarkori143?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sagarkori143&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@sagarkori143's github-readme-streak-stats"/></a>
 
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="[https://wakatime.com/@sagarkori143](https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+    <a href="[https://wakatime.com/@sagarkori143](https://github-readme-activity-graph.vercel.app/graph?username=James Cross&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
         </a>
 </p>
 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkori143&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="sagarkori143 :: Top Langs" />
-<a href="https://github.com/sagarkori143?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="Sagar Kori's trophies"/></a>
+<a href="https://github.com/sagarkori143?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="James Cross's trophies"/></a>
 </p>
 
 ## Contact me 📮
 <div>
-  <a href = "mailto:sagarkoriup11@gmail.com"><img src="https://img.shields.io/badge/Email-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
+  <a href = "mailto:goldendragon@gmail.com"><img src="https://img.shields.io/badge/Email-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
 
 </div>
 
