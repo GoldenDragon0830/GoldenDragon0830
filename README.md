@@ -1,6 +1,4 @@
 <div> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=45&vCenter=true&width=500&lines=Hey+Visitor!!+%F0%9F%91%8B;I+am+James+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
 <img src="code.gif" width="390px" alt=gif align="right"> 
 </div>
